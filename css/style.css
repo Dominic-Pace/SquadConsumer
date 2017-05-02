@@ -272,6 +272,15 @@ hr.separator {
   color: #333;
 }
 
+.beta-text {
+  font-size: 12px;
+  font-weight: 400;
+  margin-top: -14px;
+  margin-left: 400px;
+  color: #31acdc;
+  display: block;
+}
+
 .intro-img-text {
   height: auto;
   width: 150px;
