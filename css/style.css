@@ -283,7 +283,7 @@ hr.separator {
 
 .intro-img-text {
   height: auto;
-  width: 150px;
+  width: 300px;
   margin-top: -12px;
 }
 
@@ -299,6 +299,7 @@ hr.separator {
   padding-left: 30px;
   padding-right: 40px;
   margin-top: 100px;
+  align-items: center;
 }
 .intro-section .intro_text h1 {
   color: #000;
