@@ -9,7 +9,7 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 body {
   font-family: "Avenir", sans-serif;
-  color: #aeaeae;
+  color: #757575;
   background-color: #fff;
   font-size: 15px;
   line-height: 28px;
@@ -210,7 +210,7 @@ hr.separator {
   -ms-border-radius: 50%;
   border-radius: 50%;
   background-color: #222;
-  color: #aeaeae;
+  color: #757575;
 }
 .footer ul li a:hover {
   color: #fff;
@@ -311,7 +311,7 @@ hr.separator {
   font-family: "Avenir", sans-serif;
 }
 .intro-section .intro_text p {
-  color: #666;
+  color: #757575;
   font-size: 18px;
   margin-top: 10px;
 }
