@@ -285,6 +285,7 @@ hr.separator {
   height: auto;
   width: 300px;
   margin-top: -12px;
+  padding-bottom: 15px;
 }
 
 .intro-section {
